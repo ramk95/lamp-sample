@@ -1,6 +1,6 @@
 <?php
 
-$databaseHost = '172.17.0.2';
+$databaseHost = 'localhost';
 $databaseName = 'test';
 $databaseUsername = 'root';
 $databasePassword = 'root';

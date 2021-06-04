@@ -1,5 +1,5 @@
 <?php
-$link = mysqli_connect("172.17.0.2", "root", "root");
+$link = mysqli_connect("localhost", "root", "root");
 
 if (!$link) {
     echo "Error: Unable to connect to MySQL." . PHP_EOL;
